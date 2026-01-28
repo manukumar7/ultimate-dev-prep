@@ -23,10 +23,12 @@
 
 ---
 
-## 🎓 Online Courses (Free & Paid)
+## 🎓 Online Courses
+
+### 🏆 Top English Courses
 
 1. **freeCodeCamp HTML & HTML5** (Free)  
-   - https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
+   - https://youtu.be/kUMe1FH4CHE?si=3zyqH36FJ7L27mC7
 
 2. **Frontend Masters – HTML Semantics & Forms** (Paid)  
    - https://frontendmasters.com/
@@ -34,32 +36,16 @@
 3. **Codecademy – Learn HTML** (Free + Paid)  
    - https://www.codecademy.com/learn/learn-html
 
-4. **Coursera – HTML, CSS, and JavaScript for Web Developers**  
-   - https://www.coursera.org/learn/html-css-javascript-for-web-developers
+### 🏆 Top Hindi Courses
 
-5. **Udemy – Modern HTML from Beginner to Advanced**  
-   - Search “HTML 2026” for updated courses
+1. **CodeWithHarry – HTML Tutorial in Hindi (Free)**  
+   - https://youtu.be/k2DSi1zGEc8?si=O-rKOM5MsUjFDAUd
 
----
-
-## 🎥 YouTube Channels & Tutorials
-
-1. **Traversy Media – HTML Crash Course**  
-   - https://www.youtube.com/watch?v=UB1O30fR-EE
-
-2. **The Net Ninja – HTML Playlist**  
-   - https://www.youtube.com/playlist?list=PL4cUxeGkcC9gXdVXVJBmHpSI7zCEcjLUX
-
-3. **freeCodeCamp.org – HTML Full Course**  
-   - https://www.youtube.com/watch?v=pQN-pnXPaVg
-
-4. **DesignCourse – HTML & CSS Projects**  
-   - https://www.youtube.com/@DesignCourse
-
-5. **Kevin Powell – HTML Tips & Best Practices**  
-   - https://www.youtube.com/@KevinPowell
+2. **Geeky Shows – HTML Complete Course (Hindi)**  
+   - https://www.youtube.com/watch?v=5sxtZ10Vf3s&list=PLbGui_ZYuhihSr4HroBBQt_quHL42JLif
 
 ---
+
 
 ## 🛠️ HTML Practice Tools & Playgrounds
 
@@ -77,5 +63,20 @@
 
 5. **HTML Validator** – Check HTML for errors & accessibility  
    - https://validator.w3.org/
+
+6. **StackBlitz** – Online IDE for HTML/JS/TS projects  
+   - https://stackblitz.com/
+
+7. **CodeSandbox** – React/HTML/JS playground  
+   - https://codesandbox.io/
+
+---
+
+## 📌 Extra Tips
+
+- Use **playgrounds** daily to test new HTML tags and layouts.  
+- Combine **YouTube tutorials** with **documentation reading** for better retention.  
+- Try **mini projects** (profile page, contact form, blog article) in playgrounds to practice.  
+- Validate your HTML regularly using **W3C Validator**.  
 
 ---
