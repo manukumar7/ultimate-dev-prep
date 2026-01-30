@@ -1,4 +1,12 @@
-🧭 CSS Roadmap (2026)
+<div align="center">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/732/732190.png" 
+    width="120" 
+    alt="CSS Logo"
+  />
+</div>
+
+## 🧭 CSS Roadmap (2026)
 
 From Zero → Production → Interview Expert  
 (With Sass, Frameworks & Modern CSS)
@@ -336,9 +344,3 @@ From Zero → Production → Interview Expert
 
 ---
 
-## 🏁 FINAL ADVICE
-
-❌ Don’t memorize properties  
-✅ Understand layout thinking  
-❌ Don’t skip Flexbox & Grid  
-✅ CSS is about structure + flow + responsiveness
